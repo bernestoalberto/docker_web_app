@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Node.js on Docker",
   "author": "Ernesto Bonet <ebonet@eabonet.com>",
+  "repository": "https://github.com/bernestoalberto/docker_web_app.git"
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
