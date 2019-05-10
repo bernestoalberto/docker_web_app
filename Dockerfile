@@ -1,7 +1,7 @@
 FROM node:11
 
 # Create app directory
-WORKDIR /usr/src/app
+WORKDIR  /home/ebonet/www/docker_web_app 
 
 # Install app dependencies
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
