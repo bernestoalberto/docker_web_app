@@ -1,4 +1,4 @@
-FROM node:11
+FROM node:12
 
 # Create app directory
 WORKDIR  /home/ebonet/www/docker_web_app 
